@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'sortimports' target in the 'sortimports' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
